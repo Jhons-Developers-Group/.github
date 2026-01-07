@@ -1,3 +1,3 @@
-# ODG (Overworlder Developers Group)
+# Jhons Developer Group
 
 Developer group.
